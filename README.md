@@ -6,12 +6,14 @@
 
 Usa um sistema tipo cliente-servidor, onde o cliente se comunica com o *daemon* Docker, que constroi, executa e distribui seus *contêiners* Docker, que se conecta utilizando uma API REST.
 
-- **daemon Docker** : Escuta as solicitações da API, gerencia imagens, contêiners, redes e volumes. 
+- **Daemon Docker** : Escuta as solicitações da API, gerencia imagens, contêiners, redes e volumes. 
 
 - **Contêiners** : é uma instância executavel de uma imagem, isolado, controlavel, gerenciavel, quando um *contêiner* é removido todas as alterações em seu estado de armazenamento são excluidos. 
  
  - **Docker Compose** : É o cliente do Docker que permite trabalhar com varios aplicativos juntos com vários contêineres. 
-# Instalação e configuração do DOCKER. 
+
+
+# Instalação e configuração do Docker. 
 
 Recomenda-se que instale dessa forma em um sistema operacional como o ubuntu ou Debian, para windows e macos há versões Desktop próprias. 
 
@@ -103,5 +105,21 @@ sudo ./install-docker.sh
 ```
 
 > Não faça duas instalações, pode dar problemas.
+
+
+# Criando uma pilha LAMP com o Docker Compose
+
+Vamos relembrar oque é LAMP ? :raised_hands: :raised_hands: :raised_hands: :raised_hands: 
+
+**L**inux, **A**pache, **M**ySQL, **P**HP.
+
+Caso você não esteja associado a este assunto, visite meu repositório no meu perfil @M41R40 :ok_woman:
+
+```html
+https://github.com/M41R40/Servidor-ubuntu-c-pilha-LAMP---DigitalOcean
+```
+
+
+
 
 
