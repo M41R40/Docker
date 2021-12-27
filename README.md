@@ -113,7 +113,7 @@ Vamos relembrar oque é LAMP ? :raised_hands: :raised_hands: :raised_hands: :rai
 
 **L**inux, **A**pache, **M**ySQL, **P**HP.
 
-Caso você não esteja associado a este assunto, visite meu repositório no meu perfil @M41R40 :ok_woman:
+Caso você não esteja associado a este assunto, visite o repositório no meu perfil @M41R40 :ok_woman: no link abaixo: 
 
 ```html
 https://github.com/M41R40/Servidor-ubuntu-c-pilha-LAMP---DigitalOcean
